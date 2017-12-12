@@ -4,4 +4,4 @@ first
 second
 third
 Creating a new branch is quick.
-new line in master branch.
+Creating a new branch feature 1. and add new line in master branch.
